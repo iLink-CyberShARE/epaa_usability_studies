@@ -2,9 +2,9 @@
 Repository for materials used in usability studies of El Paso Accessibility App.
 
 ## Content
-Pre and Post-task surveys.
-Observation Sheet Template.
-Moderator Instructions.
+Pre and Post-task surveys.   
+Observation Sheet Template.   
+Moderator Instructions.   
 
 ## Contributors
 Luis A Garnica Chavira   
@@ -20,7 +20,8 @@ REWBAH'25: 6th International Workshop on Requirements Engineering for Well-Being
 ADEIT, Fundación Universidad-Empresa   
 Valencia, Spain, September 2, 2025   
 
-This material is based upon work supported by the National Science Foundation (NSF) under Grant No. 1952243. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+This material is based upon work supported by the National Science Foundation (NSF) under Grant No. 1952243.    
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
 ## License 
 This software code is licensed under the GNU GENERAL PUBLIC LICENSE v3.0   
