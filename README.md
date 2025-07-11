@@ -2,9 +2,9 @@
 Repository for materials used in usability studies of El Paso Accessibility App.
 
 ## Content
-Pre and Post-task surveys.   
-Observation Sheet Template.   
-Moderator Instructions.   
+Questionnaires: Pre and Post-task surveys in English and Spanish.      
+Observation Sheet: Data collection instrument used by moderators during the study.   
+Moderator Script and Instructions: Procedure to follow by moderators during the study.   
 
 ## Contributors
 Luis A Garnica Chavira   
