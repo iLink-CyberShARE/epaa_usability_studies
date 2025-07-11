@@ -3,7 +3,7 @@ Repository for materials used in usability studies of El Paso Accessibility App.
 
 ## Content
 Questionnaires: Pre and Post-task surveys in English and Spanish.      
-Observation Sheet: Data collection instrument used by moderators during the study.   
+Observation Sheet: Data collection instrument used by moderators during the study. R2 (used in Beta 1) and R3 (used in Beta 2).      
 Moderator Script and Instructions: Procedure to follow by moderators during the study.   
 
 ## Contributors
